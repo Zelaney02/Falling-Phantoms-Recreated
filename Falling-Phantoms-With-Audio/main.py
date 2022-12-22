@@ -1,17 +1,3 @@
-'''          => Welcome to the game of Falling Phantoms <=
-    Instructions:
-    1) Run the program 
-    2) Click on the game screen to activate arrow keys
-    3) Catch a gem
-    4) There will be a pop-up asking to enable the audio, confirm it and rerun the game
-
-    How To Play:
-    Move the player left and right with arrow keys and down key to stop player. Try to catch the gems, but avoid hitting the phantoms. You start on level 1 with 5 lives.
-
-    Objective:
-    Get to level 10 or score 1000 gems
-                  GOOD LUCK!   
-'''
 import turtle
 # Note: turtle supports gif images only
 # Note: turtle coordinates have (0,0) in the center
